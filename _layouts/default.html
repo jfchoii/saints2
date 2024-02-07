@@ -49,6 +49,17 @@
         {% endfor %}
 -->
       <!--Add sidebar here-->
+      <h2>{{ site.data.nav2.docs_list_title }}</h2>
+      <nav>
+        <ul>
+          {% for item in site.data.nav2.docs %}
+            <li>
+              <a href="{{ item.url }}">{{ item.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+
       <h2>{{ site.data.navigation.docs_list_title }}</h2>
       <nav>
         <ul>
@@ -59,6 +70,7 @@
           {% endfor %}
         </ul>
       </nav>
+
       </header>
       <section>
 
