@@ -1,6 +1,6 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: Drassil/git-wiki-theme@master
 # (string) Title of your wiki
-title: "wiki"
+title: "Wiki Title"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
 baseurl: "/saints"
@@ -117,7 +117,6 @@ plugins:
   - jekyll-titles-from-headings
   - jemoji
   - jekyll-gitlab-metadata
-  - jekyll-remote-theme
 
 
 #
