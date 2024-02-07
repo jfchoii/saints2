@@ -1,100 +1,93 @@
-<!-- Functions as HOME PAGE. Source: Home.md -->
+# The Minimal theme
+
+[![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+
+*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
+
+![Thumbnail of minimal](thumbnail.png)
+
+## Usage
+
+To use the Minimal theme:
+
+1. Add the following to your site's `_config.yml`:
+
+    ```yml
+    theme: jekyll-theme-minimal
+    ```
+
+2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+
+    ```ruby
+    gem "github-pages", group: :jekyll_plugins
+    ```
 
 
 
-site is built using https://github.com/Drassil/git-wiki-skeleton
+## Customizing
 
-previewing page structure & easy wiki using the wiki functionality of github in https://github.com/jfchoii/saints2/wiki
+### Configuration variables
 
-deploying site with theme will be done later, site lives on https://jfchoii.github.io/saints2/
+Minimal will respect the following variables, if set in your site's `_config.yml`:
 
-# Welcome to the saints wiki! 
+```yml
+title: [The title of your site]
+description: [A short description of your site's purpose]
+```
 
-Access this wiki at https://github.com/jfchoii/saints2/wiki
+Additionally, you may choose to set the following optional variables:
 
-This is currently being edited by @pangiokuhlii.
+```yml
+logo: [Location of the logo]
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+```
 
-This may be the home for static information related to the guild. Information that is constantly updated may be links to sheets/docs.
+### Stylesheet
 
-Planned and suggested edits:
-1. Import contents of Google docs into wiki
-2. Find a nice theme
-3. (Need help with this) Host images offsite (Imgur or other) for linking in the pages 
-4. Restore formatting where relevant (Like in [[Crown Exchange]], for example)
-5. Restructure documentation to emphasize trading help and assistance (addons, pricing, farming, flipping, crafting, etc)
-6. Find hosting so that we don't have to use the current URL tied to my github
-7. Edit text so it is less verbose and easy for members to read and navigate
-8. Remove redundant information, consolidate information
-9. Hype up the guild lottery & rewards for donations
-10. Find a way to make this document more private. Otherwise, more private info may be linked as static google docs.(Guild News)
+If you'd like to add your own custom styles:
 
+1. Create a file called `/assets/css/style.scss` in your site
+2. Add the following content to the top of the file, exactly as shown:
+    ```scss
+    ---
+    ---
 
-# Introduction
+    @import "{{ site.theme }}";
+    ```
+3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
 
-TBA -- Migrate saints info center here? https://docs.google.com/document/d/11WGFPT37VFWoyjmTzDjWOHQcPMAsb82RIPQM3LJiZhQ/edit
+### Layouts
 
-## To New Members
-A warm welcome to you, friend! We are very happy you have joined us and we look forward to enjoying the game and guilds with you.
+If you'd like to change the theme's HTML layout:
 
-You may be curious about a lot of things and we have a step by step guide to help you transition into your new community.
+1. [Copy the original template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+2. Create a file called `/_layouts/default.html` in your site
+3. Paste the default layout content copied in the first step
+4. Customize the layout as you'd like
 
-We highly recommend that you learn about your new guild. We do things differently than most guilds and hope you will soon experience the benefits.
+## Roadmap
 
-Progression is a step by step process where you become more informed, more skilled and ultimately a thriving member of the community and earning gold.
+See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
 
-With you in mind, we have created a [[Step by Step Guide]] for you to follow to help your progression to be fun and challenging.
+## Project philosophy
 
-## [[Guild News]]
+The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
 
-## Links
-### Information
-- [[Guild Handbook]]
-- [[Ranks and Roles]]
-- [[Sales Handbook]]
-### Benefits
-- [[Guild Home]]
-- [[Crown Exchange]]
-- [[Rite of Passage]]
-- [Guild Lottery](Guild-News#Monster-Lottery)
-- [[Awards and Prizes]]
-- [[Guild Credits]]
-### Reference
-- [[Games, Gear, and Addon Assistance]]
-- [[Sales Handbook]]
-- [[Master Merchant Setup]]
+## Contributing
 
-## Discord
-Please join us if you can.  There are many resources in Discord that will come in handy. You do not need to have a headset or talk in Discord - it is mostly just typing if you want and reading, if you can.  
+Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
 
-Invite link here: https://discord.gg/8KybyjS
+### Previewing the theme locally
 
-## Reference
-[[Games, Gear, and Addon Assistance]]
-[[Sales Handbook]]
-[[Master Merchant Setup]]
+If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
+1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
+2. `cd` into the theme's directory
+3. Run `script/bootstrap` to install the necessary dependencies
+4. Run `bundle exec jekyll serve` to start the preview server
+5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
 
+### Running tests
 
-
-
-<!---
-## Table of Contents
-This might be optional as there is already a sidebar
-
-### Introduction
-1. [Welcome New Members](Welcome)
-2. [[Step by Step Guide]]
-
-### [Guild News](linktoguildnews)
-
-### Guilds
-1. [[Guild Basics]]
-2. [[Guild Rules]]
-
-### [[Sales Handbook]]
-
-### Benefits
-
-### Events
-
-### 
+The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
