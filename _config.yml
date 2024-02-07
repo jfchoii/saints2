@@ -7,3 +7,5 @@ theme: jekyll-theme-minimal
 theme: jekyll-theme-minimal
 title: [The title of your site]
 description: [A short description of your site's purpose]
+plugins:
+- jekyll-remote-theme #
