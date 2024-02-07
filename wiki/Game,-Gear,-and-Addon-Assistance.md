@@ -1,3 +1,5 @@
+# Game, Gear, and Addon Assistance
+
 https://docs.google.com/document/d/1i3shWjiAahJGDNV_0fKYMIkKm4QmjxxFcpF7ToYdfx4/edit
 
 Revised Oct 10th, 2021

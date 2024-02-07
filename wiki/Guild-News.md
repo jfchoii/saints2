@@ -1,3 +1,5 @@
+# Guild News
+
 https://docs.google.com/document/d/1EAx4SVqxwTYutW0G3l1aXTcSWsLFPjNdxm7Oq2R1C38/edit
 (Guild news is posted in this google docs link? How to embed preview of a google doc that can be edited by the GMs so that it remains a static link)
 

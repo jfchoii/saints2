@@ -1,16 +1,18 @@
+# Ranks and Roles
+
 https://docs.google.com/document/d/1Ya--wxek0lmDgQUdEcC-dWvPwt0e-BrkUMx_tGn1Pik/edit?usp=sharing
 
 :warning: EN: Edit colors
 
 1/14/23
 
-# Ranks
+## Ranks
 Page, Squire, Crusader - Progression
 
 (Ranks and lottery tickets)
 (Ranks and privileges)
 
-# Guild Leaders and Officers
+## Guild Leaders and Officers
 ### General Managers 
 
 * Coach1113 - St Blackwood Guild (GM) and Founder
