@@ -6,11 +6,9 @@ https://docs.google.com/document/d/1xi6dSl0g3fEhIgxGEC1hwZ3U0P7VRY2l-6jZoVeZzR4/
 
 > “No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other’s worth.” - Robert Southey
 
-# Absences
-
 Absences of more than one week should be reported to an officer of the guild.  Extended absences are not allowed for members in orientation or on the removal list.  We ask that you make a donation appropriate to cover your period of absence.
 
-# Inactivity Policy
+## Inactivity Policy
 
 Inactivity is defined as not playing the game or **setting your status to offline** for the length of the inactivity period.  We have no way of knowing if your status is set to offline as the game only reports you as being inactive.
 
@@ -20,15 +18,15 @@ Prior notice will not be given.  You may however receive an invite from a sister
 
 If you have been removed from any guild, you are not restricted from re-applying to the same guild or to a sister guild. 
 
-# Donations
+## Donations
 
 We ask that you **make a donation in advance when you will be gone**.  The guild loses more than 20k per week when you are gone or do not make any sales.  You may otherwise be removed if you do not inform anyone or cover your absence with a donation.
 
-# Extension/Transfers
+## Extension/Transfers
 
 If your real life situation demands that you cannot be active in the game, please let the GM know and arrangements will be made to help you and to protect the guild.
 
-# Reinstatement
+## Reinstatement
 
 If you have been removed from any guild and find that your circumstances have changed, you may reapply to the guild that you were removed from.
 

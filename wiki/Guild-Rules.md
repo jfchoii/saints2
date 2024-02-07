@@ -14,11 +14,12 @@ https://docs.google.com/document/d/1rp_pVRRXvZ2BXGOiyGOW-onJpkdIC58iPyMuOpVEZUk/
 <!--:warning: EN: I propose splitting this into
 1. Guild house rules (everything for discord, ranks, )
 2. Trade
-3. Absences (Consolidate with absences document)-->
+3. Absences (Consolidate with absences document)
 
 Also see [[Absences]] and [[Sales Handbook]]
 
-(Editor's comment: Isn't this in the handbook?)
+(Editor's comment: Isn't this in the handbook?)-->
+
 ## DA RULES 
 1. Have Fun
    - Real life has enough challenges. We play the game to have fun and we should never lose sight of that. 
