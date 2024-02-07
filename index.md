@@ -36,23 +36,23 @@ Progression is a step by step process where you become more informed, more skill
 
 With you in mind, we have created a [[Step by Step Guide]] for you to follow to help your progression to be fun and challenging.
 
-## [Guild News](Guild-News.md)
+## [Guild News](wiki/Guild-News.md)
 
 ## Links
 ### Information
-- [Guild Handbook](Guild-Handbook.md)
-- [Ranks and Roles](Ranks-and-Roles.md)
-- [Sales Handbook](Sales-Handbook.md)
+- [Guild Handbook](wiki/Guild-Handbook.md)
+- [Ranks and Roles](wiki/Ranks-and-Roles.md)
+- [Sales Handbook](wiki/Sales-Handbook.md)
 ### Benefits
 - [[Guild Home]]
 - [[Crown Exchange]]
 - [[Rite of Passage]]
-- [Guild Lottery](Guild-News#Monster-Lottery)
+- [Guild Lottery](wiki/Guild-News#Monster-Lottery)
 - [[Awards and Prizes]]
 - [[Guild Credits]]
 ### Reference
 - [[Games, Gear, and Addon Assistance]]
-- [Sales Handbook](Sales-Handbook.md)
+- [Sales Handbook](wiki/Sales-Handbook.md)
 - [[Master Merchant Setup]]
 
 ## Discord
