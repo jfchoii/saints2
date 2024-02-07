@@ -52,7 +52,7 @@
       <h3>{{ site.wiki.nav2.docs_list_title }}</h3>
       <nav>
         <ul>
-          {% for item in site.wiki.nav2.docs %}
+          {% for item in site.data.nav2.docs %}
             <li>
               <a href="{{ item.url }}">{{ item.title }}</a>
             </li>
@@ -60,7 +60,7 @@
         </ul>
       </nav>
 
-      <h3>{{ site.wiki.navigation.docs_list_title }}</h3>
+      <h3>{{ site.data.navigation.docs_list_title }}</h3>
       <nav>
         <ul>
           {% for item in site.wiki.navigation.docs %}
