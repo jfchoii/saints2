@@ -17,11 +17,11 @@ plugins:
 
 ---
   defaults:
-    # _docs
+   #  _docs
     - scope:
         path: ""
-        type: main
+        type: docs
       values:
         sidebar:
-          nav: "main"
+          nav: "docs"
   ---    
