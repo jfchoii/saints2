@@ -59,7 +59,7 @@ Please join us if you can.  There are many resources in Discord that will come i
 
 ---
 
-#### Editor's notes
+#### Editor's notes -- members can stop reading here
 
 
 Access site at https://jfchoii.github.io/saints2 ; Access this wiki at https://github.com/jfchoii/saints2/wiki

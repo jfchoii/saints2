@@ -29,7 +29,7 @@ When you see the name of the correct guild, you may start chatting with other me
 
 
 ### 2. How to use the Guild Bank
-The guild bank may only be used to deposit either gold for donations or to deposit items for donations.  You will receive guild credits (Another document) if you make donations.  You may not make withdrawals from St Elsweyr until such time that you might reach an appropriate rank that you would need to be appointed to.  This is customary for most trading guilds because large amounts of gold are stored in order to make weekly bids and valuable items are stored in which will be used to resell, for auctions or for awards and prizes.
+The guild bank may only be used to deposit either gold for donations or to deposit items for donations.  You will receive [[guild credits]] if you make donations.  You may not make withdrawals from St Elsweyr until such time that you might reach an appropriate rank that you would need to be appointed to.  This is customary for most trading guilds because large amounts of gold are stored in order to make weekly bids and valuable items are stored in which will be used to resell, for auctions or for awards and prizes.
 
 First, you must go to a local bank in any city within any region in the game. \
 Step up to the bank teller and press E to interact. You will have three choices: 
@@ -59,14 +59,14 @@ When you have selected the guild store, you will see the following choices on th
 When you are looking for an item to buy you will be Browsing through all of the listings in the store.  If you know the name of the item you wish to purchase, you can type it in the search bar on the top left.  You may also Browse through the categories as shown below by selecting a category and then click R to Start Search.  In this example the search was for a motif, which is consumable and all motifs are listed.  To continue through the pages, press next.
 
 #### Sell
-You have 30 slots that you can fill to try to sell to another member or to anyone that visits our trader.  It is important for the well being of the guild store to try to keep your 30 slots filled at prices that are set to be reasonable.  When listing items to sell, your inventory will appear and you may choose the item and you set the price.
+You have 30 slots (also called listings) that you can fill to try to sell to another member or to anyone that visits our trader.  It is important for the well being of the guild store to try to keep your 30 slots filled at prices that are set to be reasonable.  When listing items to sell, your inventory will appear and you may choose the item and you set the price.
 
 #### Listings
-This option will show you a detailed list of each item that you have listed in the store and the price that you listed it for.  A listing is the same thing as a slot.  You may cancel a listing at any time, but there is a fee that the game charges.  The guild does not make money from canceling or relisting an item.
+This option will show you a detailed list of each item that you have listed in the store and the price that you listed it for. You may cancel a listing at any time, but the game charges a listing fee of 7% of the selling value, and this is not refunded. The guild does not make money from canceling or relisting an item.
 
-The guild only receives half of what you are charged when an item sells.  You are charged 7% of the selling value, however, the guild only receives .349 percent of every sale.
+You are charged 7% of the selling value. Meanwhile, **the guild only receives 3.49 percent of every sale.**
 
-Sales alone never pay for the cost of a trader and why every trading guild depends on donations and other revenues to exist.
+As the guild only receives a small fraction of what you are charged when an item sells, Sales alone never pay for the cost of a trader and why every trading guild depends on donations and other revenues to exist.
 
 
 
