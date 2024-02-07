@@ -69,7 +69,7 @@ This may be the home for static information related to the guild. Information th
 Planned and suggested edits:
 1. Import contents of Google docs into wiki
 2. Find a nice theme
-3. (Need help with this) Host images offsite (Imgur or other) for linking in the pages 
+3. (Need help with this) Compile all images and upload to assets folder for linking in the pages 
 4. Restore formatting where relevant (Like in [[Crown Exchange]], for example)
 5. Restructure documentation to emphasize trading help and assistance (addons, pricing, farming, flipping, crafting, etc)
 6. Find hosting so that we don't have to use the current URL tied to my github
