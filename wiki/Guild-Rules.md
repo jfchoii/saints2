@@ -1,3 +1,5 @@
+# Guild Rules
+
 Revised 10/26/21
 
 https://docs.google.com/document/d/1rp_pVRRXvZ2BXGOiyGOW-onJpkdIC58iPyMuOpVEZUk/edit

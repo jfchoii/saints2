@@ -1,13 +1,8 @@
+# Guild Handbook
 Source: https://docs.google.com/document/d/12yJRHTvmNDKH4DnfhhWArW2e0cmhRynXh7ikn7GNe4U/edit
-<!-----
-
-
-
-Conversion time: 0.464 seconds.
-
+<!-----Conversion time: 0.464 seconds.
 
 Using this Markdown file:
-
 1. Paste this output into your source file.
 2. See the notes and action items below regarding this conversion run.
 3. Check the rendered output (headings, lists, code blocks, tables) for proper
@@ -17,8 +12,7 @@ Conversion notes:
 
 * Docs to Markdown version 1.0β35
 * Tue Feb 06 2024 19:23:22 GMT-0800 (PST)
-* Source doc: Copy of Guild Handbook
------>
+* Source doc: Copy of Guild Handbook----->
 
 Revised 5/7/22
 
@@ -31,11 +25,11 @@ Revised 5/7/22
 
 ## Quick links
 * [Discord](Link to discord)
-* [[Guild Basics]]
-* [[Guild Rules]]
+* [Guild Basics](Guild-Basics.md)
+* [Guild Rules](Guild-Rules.md)
 * [Ranks and Roles](Ranks-and-Roles.md)
 * [Sales Handbook](Sales-Handbook.md)
-* [[Absences]]
+* [Absences](Absences.md)
 * [[Game, Gear, and Addon Assistance]]
 
 ### Guild Philosophy 
@@ -48,7 +42,7 @@ We are here to have fun \
 Be adults with maturity, but let the kid inside shine  \
 Dwell in an environment of trust  
 
-## Simply Stated [[Guild Rules]]
+## Simply Stated [Guild Rules](Guild-Rules.md)
 
 The rules apply to **everyone** and they are enforced.
 
@@ -57,7 +51,7 @@ We wish we did not have to have rules and hope that someday we can throw them aw
 **We enforce the [Bethesda Code of Conduct](https://bethesda.net/en/document/code-of-conduct)**\
             **AND** we only use language that is used in the game dialog.
 
-More detail, mostly about guild chat and discord chat can be found in [[Guild Rules]]. 
+More detail, mostly about guild chat and discord chat can be found in [Guild Rules](Guild-Rules.md). 
 
 ## Join us on [Discord](Discordlinkhere)
 
@@ -154,7 +148,7 @@ Also, don’t forget to buy a lottery ticket (BIG Payouts) The Monster lottery c
 
 ## New Members 
 
-The sales amounts may seem overwhelming but we can easily teach you how to make millions. Read our [[Guild Basics]] and please start selling right away.  Read our  to get better at sales and please ask any one of our friendly members for tips on learning to learn to sell BIG.  
+The sales amounts may seem overwhelming but we can easily teach you how to make millions. Read our [Guild Basics](Guild-Basics.md) and please start selling right away.  Read our  to get better at sales and please ask any one of our friendly members for tips on learning to learn to sell BIG.  
 
 New members have a temporary probation period where we do expect you to make an effort in selling.  Zero sales within your first or second week is not acceptable.
 
