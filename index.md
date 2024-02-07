@@ -1,8 +1,9 @@
 <!-- index.md in the home directory functions as the home page -->
 
-# Welcome to the saints wiki!  1829
+# Welcome to the saints wiki! 
+1831
 
-Access this wiki at https://github.com/jfchoii/saints2/wiki
+Access site at https://jfchoii.github.io/saints2 ; Access this wiki at https://github.com/jfchoii/saints2/wiki
 
 This is currently being edited by @pangiokuhlii.
 

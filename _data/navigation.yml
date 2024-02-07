@@ -2,13 +2,12 @@ docs_list_title: Navigation
 docs:
   - title: "Home"
     url: /index.html
+
   - title: "Guild Handbook"
     url: /wiki/Guild-Handbook.md
+
   - title: "Sales Handbook"
     url: /wiki/Sales-Handbook.md
+
   - title: "Add more later"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: Parent
-    children:
-      - title: "Child1"
-        url: /wiki/Guild-Handbook.md
+    url: https://jekyllrb.com/tutorials/navigation/#scenario-2-sorted-list
