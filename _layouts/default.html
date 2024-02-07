@@ -52,7 +52,7 @@
       <h2>{{ site.data.navigation.docs_list_title }}</h2>
       <nav>
         <ul>
-          {% for item in site.navigation %}
+          {% for item in site.data.navigation.docs %}
             <li>
               <a href="{{ item.url }}">{{ item.text }}</a>
             </li>
