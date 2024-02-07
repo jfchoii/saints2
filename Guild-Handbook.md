@@ -33,8 +33,8 @@ Revised 5/7/22
 * [Discord](Link to discord)
 * [[Guild Basics]]
 * [[Guild Rules]]
-* [[Ranks and Roles]]
-* [[Sales Handbook]]
+* [Ranks and Roles](Ranks-and-Roles.md)
+* [Sales Handbook](Sales-Handbook.md)
 * [[Absences]]
 * [[Game, Gear, and Addon Assistance]]
 
@@ -79,7 +79,7 @@ No problem, you should find a few answers to the basics here,.
 * A helpful management team (][Jobs Held]])  
 * A helpful and extremely friendly community 
 * A Crown Exchange Program: See [[Crown Exchange]] 
-* Sales Help: See [[Sales Handbook]] 
+* Sales Help: See [Sales Handbook](Sales-Handbook.md) 
 * Crafting Services 
 * [[Game and Gear Assistance]] 
 * Events every week 
@@ -128,7 +128,7 @@ St Elsweyr and St Greymoor use your **weighted income average** (explained in [[
 
 ### Your income earned may be achieved in a combination of several ways.
 
-1.  Income from your sales.  The guild does NOT get 7% of your sales.  ZOS takes half and leaves the rest for the guild and it is nearly impossible for any trading guild to pay for a weekly trader from sales income alone.  If you would like to know how to begin selling, check the [[Sales Handbook]]
+1.  Income from your sales.  The guild does NOT get 7% of your sales.  ZOS takes half and leaves the rest for the guild and it is nearly impossible for any trading guild to pay for a weekly trader from sales income alone.  If you would like to know how to begin selling, check the [Sales Handbook](Sales-Handbook.md)
 2. Gold donations made directly into the guild bank are counted 100% toward your earned income.  If you need help on how to make a donation, check this document: (Guild Basics)[Guild-Basics]
 3. Item donations **of value** made directly into the guild bank are counted 100% toward your earned income, if a single item has a value of 1,000 gold or greater or if stackable items have a combined value of 1,000 gold or more.  <span style="text-decoration:underline;">Please note that we do not wish for you to put worthless items into the guild bank, as it does not give you credit for anything and creates more work for us to keep the bank space available for those that do wish to help.</span>
 4. The 24 Hour Rule for Selling: If a listing has not sold in 24 hours, and it is not unique, unusual, or a traditionally hard to sell item (furnishings, motifs, non-meta weapons and armor, etc), please consider relisting the item and lowering the price. Please limit your "hard to sell" items to 5 slots or less." 
@@ -172,4 +172,4 @@ If you take a quiz, then you have learned what is necessary to become a True Sai
 
 ### **Remember this ...** 
 
- If you find yourself getting closer to the bottom, stand tall and take the initiative to improve and get help. Members that are visibly trying to improve are never removed. We want to help you help yourself and to be successful. See our [[Sales Handbook]]
+ If you find yourself getting closer to the bottom, stand tall and take the initiative to improve and get help. Members that are visibly trying to improve are never removed. We want to help you help yourself and to be successful. See our [Sales Handbook](Sales-Handbook.md)

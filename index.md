@@ -36,13 +36,13 @@ Progression is a step by step process where you become more informed, more skill
 
 With you in mind, we have created a [[Step by Step Guide]] for you to follow to help your progression to be fun and challenging.
 
-## [Guild News](wiki/Guild-News.md)
+## [Guild News](Guild-News.md)
 
 ## Links
 ### Information
-- [Guild Handbook](wiki/Guild-Handbook.md)
-- [[Ranks and Roles]]
-- [[Sales Handbook]]
+- [Guild Handbook](Guild-Handbook.md)
+- [Ranks and Roles](Ranks-and-Roles.md)
+- [Sales Handbook](Sales-Handbook.md)
 ### Benefits
 - [[Guild Home]]
 - [[Crown Exchange]]
@@ -52,7 +52,7 @@ With you in mind, we have created a [[Step by Step Guide]] for you to follow to 
 - [[Guild Credits]]
 ### Reference
 - [[Games, Gear, and Addon Assistance]]
-- [[Sales Handbook]]
+- [Sales Handbook](Sales-Handbook.md)
 - [[Master Merchant Setup]]
 
 ## Discord
@@ -62,7 +62,7 @@ Invite link here: https://discord.gg/8KybyjS
 
 ## Reference
 [[Games, Gear, and Addon Assistance]]
-[[Sales Handbook]]
+[Sales Handbook](Sales-Handbook.md)
 [[Master Merchant Setup]]
 
 
@@ -83,7 +83,7 @@ This might be optional as there is already a sidebar
 1. [[Guild Basics]]
 2. [[Guild Rules]]
 
-### [[Sales Handbook]]
+### [Sales Handbook](Sales-Handbook.md)
 
 ### Benefits
 
