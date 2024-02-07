@@ -1,5 +1,6 @@
 docs_list_title: Guild Resources
 # Note that url paths are defined relative to this yml file path.
+# Edit sidebar in default.html
 docs:
   - title: "Guild Lottery"
     url: ""
