@@ -11,6 +11,8 @@ You can begin NOW and the sooner the better.  Selling starts as easy as running 
 
 # Basic Tools & Tips
 
+> Quick link: [Master Merchant Setup](/wiki/Master-Merchant-Setup.md)
+
 <!--**ESO+ Craft Bag:**-->
 
 ### How to list items in the store:
@@ -39,7 +41,7 @@ The look up report can be found in discord under the category of Sales and then 
 Here's an example of St Greymoor’s Sales lookup report:[Final STG Sales Look Up 8/24/21](https://docs.google.com/spreadsheets/d/1VSD6yXph6k4_pqrtPqmIUVrmzt7bYTA81MIR0ap4i0k/edit?usp=sharing) 
 
 Next there are addons that not only provide you with help in pricing but they have additional features.
-Master Merchant (MM) is an addon that provides very similar reports as the Guild Sales Lookup reports and the prices are also from ACTUAL amounts that have been sold.  We have a separate document that explains the [[Master Merchant Setup]].
+Master Merchant (MM) is an addon that provides very similar reports as the Guild Sales Lookup reports and the prices are also from ACTUAL amounts that have been sold.  We have a separate document that explains the [Master Merchant Setup](/wiki/Master-Merchant-Setup.md).
 
 Another addon that is commonly used for pricing is called Tamriel Trade Centre (TTC).  It also has an independent website [www.tamrieltradecentre.com](http://www.tamrieltradecentre.com/)  where you can look items up to find a price or to find out where to find an item for sale.  Unlike MM, Tamriel Trade Centre shows you how many of the items are LISTED for sale in all the traders across Tamriel and how much they are listed for.  It is important to note that the prices shown are what the sellers are asking for and might be reasonable or may be way off base. 
 
