@@ -68,7 +68,7 @@ This may be the home for static information related to the guild. Information th
 
 Planned and suggested edits:
 1. Import contents of Google docs into wiki
-2. Find a nice theme
+2. Find a nice theme -- this one has too much manual declaring in the sidebars and links. Try to port to readthedocs Alabaster or mkdocs.
 3. (Need help with this) Compile all images and upload to assets folder for linking in the pages 
 4. Restore formatting where relevant (Like in [[Crown Exchange]], for example)
 5. Restructure documentation to emphasize trading help and assistance (addons, pricing, farming, flipping, crafting, etc)

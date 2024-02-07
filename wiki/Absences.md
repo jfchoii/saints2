@@ -30,4 +30,4 @@ If your real life situation demands that you cannot be active in the game, pleas
 
 If you have been removed from any guild and find that your circumstances have changed, you may reapply to the guild that you were removed from.
 
-Our trading guilds maintain your historical sales and income data.  If you leave and rejoin, you will be reinstated  at the same ranking as when you left.  To avoid losing rank, when you know that you will be inactive for more than two weeks, we advise that you leave the guild as soon as possible so that you will not lose rank during your period of inactivity.  You will be invited to return.
+Our trading guilds maintain your historical sales and income data.  If you leave and rejoin, you will be reinstated at the same ranking as when you left.  To avoid losing rank, when you know that you will be inactive for more than two weeks, we advise that you leave the guild as soon as possible so that you will not lose rank during your period of inactivity.  You will be invited to return.

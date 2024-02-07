@@ -10,7 +10,7 @@ Revised 6/8/22
 
 ## How is Our Crown Exchange Done?
 
-Anyone in St Elsweyr, St Greymoor, and St Blackwood can buy and sell crowns on [the # crown-exchange channel](https://discordapp.com/channels/585172092119547925/761049495114612767)! However, all crown exchange transactions by our guild members must be brokered by an approved Broker. This is to keep our Crown Exchange scam-free!
+Anyone in St Elsweyr, St Greymoor, and St Blackwood can buy and sell crowns on the [#crown-exchange channel](https://discordapp.com/channels/585172092119547925/761049495114612767)! However, all crown exchange transactions by our guild members must be brokered by an approved Broker. This is to keep our Crown Exchange scam-free!
 
 Remember, failure to use a Broker when conducting a Crown Exchange transaction through the guild will result in the loss of your ability to Buy or Sell Crowns through our program for 30 days. Continued violations of this rule can result in permanent loss of Buying or Selling privileges.
 

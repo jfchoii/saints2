@@ -11,10 +11,12 @@ You can begin NOW and the sooner the better.  Selling starts as easy as running 
 
 # Basic Tools & Tips
 
-**ESO+ Craft Bag:**
+<!--**ESO+ Craft Bag:**-->
 
 ### How to list items in the store:
-At the bank, press E to interact with the NPC banker. You will see options to use your own bank, your guild's bank and your guild's store. If you are in more than one guild, first decide which guild you want to sell from. Then select the store for that guild.  You will then see the options to search the store to look for things to buy, or to list items for sale or to look at all of your listings that are currently up for sale.  Choose the “Sell” tab, which will bring up your inventory.  Click on the item, enter your price, and press E to list the item.  A default price will autofill - IGNORE this price.  It is an amount that any NPC  will give you and has no relation to the value of the item.  You have to pay a listing fee which is 1% of the item value, so make sure you have that much gold available. Each guild store gives you 30 slots for listening items to sell. 
+At the bank, press E to interact with the NPC banker. You will see options to use your own bank, your guild's bank and your guild's store. If you are in more than one guild, first decide which guild you want to sell from. Then select the store for that guild.  You will then see the options to search the store to look for things to buy, or to list items for sale or to look at all of your listings that are currently up for sale.  
+
+Choose the “Sell” tab, which will bring up your inventory.  Click on the item, enter your price, and press E to list the item.  A default price will autofill - IGNORE this price.  It is an amount that any NPC  will give you and has no relation to the value of the item.  You have to pay a listing fee which is 1% of the item value, so make sure you have that much gold available. Each guild store gives you 30 slots for listening items to sell. 
 
 > **TIP**:  It's important to keep all of your  slots filled and keep filling them as much as possible, for your sake and also for the guild. 
 
@@ -43,7 +45,7 @@ Another addon that is commonly used for pricing is called Tamriel Trade Centre (
 
 Another addon that is considered outdated by some is Arkadius Trade Tools, but some really like this addon.  Just be sure to not run Arkadius and Master Merchant at the same time as they will override each other.
 
-Before you consider adding an addon, first get a tool that will help you install, update, backup and uninstall addons for you.  This tool is called Minion and will make the addon process much more simple.  https://minion.mmoui.com/?download 
+Before you consider adding an addon, first get a tool that will help you install, update, backup and uninstall addons for you.  This tool is called Minion and will make the addon process much more simple.  [https://minion.mmoui.com/?download](https://minion.mmoui.com/?download) 
 
 ## How to Sell and Ways to Sell
 
@@ -53,12 +55,14 @@ This is the process of collecting as many items of value as possible while you t
 We recommend that you have a map regardless if you farm or not.  The recommended addon for a map is Vultan’s Mini Map.
 Another very important addon for farming is called Harvest Maps and is highly recommended for farming.  It will mark on your map all resources that you have found and you can create farming routes.  When combined with the Map Pins addon, it has filters to allow you to turn different resources on or off as you wish. 
 
-> TIP:  Move as fast as you can, by using methods to increase your SPEED.  At a minimum, wear some jewelry with the Swift trait on them.  You can acquire the Ring of the Wild Hunt by doing Antiquities. It Increases your movement speed by 45% while out of combat, which is huge!  You need 5 items to be able to create the Mythic ring. Location of the 5 pieces:
-> - Greenshade - Symbol of Y'ffre - World Bosses
+> TIP:  Move as fast as you can, by using methods to increase your SPEED.  At a minimum, wear some jewelry with the Swift trait on them.  You can acquire the [Ring of the Wild Hunt](https://arzyelbuilds.com/ring-of-the-wild-hunt-guide-ring-of-the-wild-hunt-leads-location/) by doing Antiquities. It increases your movement speed by 45% while out of combat, which is huge!  You need 5 items to be able to create the Mythic ring. 
+
+<!-->Location of the 5 pieces:
+ - Greenshade - Symbol of Y'ffre - World Bosses
 > - Grahtwood - Face of the Serpent - Elden Hollow Last Boss
 > - Glenumbra - Band of Water - Public Dungeon Bosses Bad Man's Hallow
 > - Malabal Tor - Face of the Wolf Beast - World Bosses
-> - Murkmire - Charm of the Shapeless - World Bosses, Teeth of Sithis + Tsofeer Cavern Delves
+> - Murkmire - Charm of the Shapeless - World Bosses, Teeth of Sithis + Tsofeer Cavern Delves-->
 
 Other gear that will help: [Fiord's Legacy](ESOsets link), [Jailbreaker](ESOsetslink)
 
@@ -79,8 +83,7 @@ Other things like glyphs, food, drink, potions and gear can make small profits a
 If you do daily crafting writs, you will get occasional gold mats, ornate items to resell and occasional surveys that will give you more raw materials per node than normal.
 With only one character crafting daily, the amounts that  you can make are meager, but               much more can be made by having multiple characters crafting daily writs.
 > TIP:  Having multiple characters that do daily crafting writs will increase the gold you make and give you more gold mats and materials to sell.
->For example:  I have 18 additional characters that each do daily crafting.  On average, it takes 2 minutes to do all 7 crafting writs (enchanting, jewelry, clothing, provisioning, blacksmithing, woodworking and alchemy) per character.  With screen loading times, it 
-takes approximately one hour per day to do the writs for all 18 characters.  In exchange for one hour of my time every day, I usually make 4 to 5 million per week which is all profit less the store taxes:
+>For example:  I have 18 additional characters that each do daily crafting.  On average, it takes 2 minutes to do all 7 crafting writs (enchanting, jewelry, clothing, provisioning, blacksmithing, woodworking and alchemy) per character.  With screen loading times, it takes approximately one hour per day to do the writs for all 18 characters.  In exchange for one hour of my time every day, I usually make 4 to 5 million per week which is all profit less the store taxes:
 > - $600,000 gold for doing the writs
 > - $35,000 in jewelry intricates and ornates sold in the guild store
 > - About 80 glyphs that I deconstruct to get the materials or help other players level
@@ -106,7 +109,7 @@ Crafting Certification:
 
 Alliance Starting Cities:
 	   1. for Aldmeri Dominion Pact - Auridon (Vulkhel Guard)
-           2. for Daggerfall Pact- Davon's Watch
+       2. for Daggerfall Pact- Davon's Watch
   	   3. for Ebonheart Pact- Deshaan   
 
 ## Gear Delving

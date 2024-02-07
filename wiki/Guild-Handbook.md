@@ -39,7 +39,7 @@ We wish we did not have to have rules and hope that someday we can throw them aw
 
 More detail, mostly about guild chat and discord chat can be found in [Guild Rules](Guild-Rules.md). 
 
-## Join us on [Discord](Discordlinkhere)
+## Join us on [Discord](https://discord.gg/8KybyjS)
 
 The very first step you can take to help yourself and that will show other members that you want to be a part of the community is to join Discord.  You don’t need to use voice or have headsets to benefit from your new discord server.  It is our communication hub for sharing information.  The process of joining is very simple, 
 
@@ -64,7 +64,7 @@ No problem, you should find a few answers to the basics here,.
 * Game and Gear Assistance
 * Events every week 
 
-> See (Discord: category=Events/event-announcements) and (Discord: category=Events/events-impromptu) or [Guild News](Guild-News) 
+> See (Discord: category=Events/event-announcements) and (Discord: category=Events/events-impromptu) or [Guild News](Guild-News.md) 
 
 * Vampire or Werewolf Bites (Discord Category - Guild Services/bite-me channel) 
 * Free Awards and Prizes every week, approximate value of 1 million  
