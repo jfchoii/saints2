@@ -1,11 +1,12 @@
 <!-- index.md in the home directory functions as the home page -->
 
 # Welcome to the saints wiki! 
-1831
 
-Access site at https://jfchoii.github.io/saints2 ; Access this wiki at https://github.com/jfchoii/saints2/wiki
+#### Editor's notes
 
 This is currently being edited by @pangiokuhlii.
+
+Access site at https://jfchoii.github.io/saints2 ; Access this wiki at https://github.com/jfchoii/saints2/wiki
 
 This may be the home for static information related to the guild. Information that is constantly updated may be links to sheets/docs.
 
@@ -18,15 +19,18 @@ Planned and suggested edits:
 6. Find hosting so that we don't have to use the current URL tied to my github
 7. Edit text so it is less verbose and easy for members to read and navigate
 8. Remove redundant information, consolidate information
+   - Guild Handbook and Rules may be redundant? 
+   - Absences being separate from rules might be redundant but might also be OK because people might ask a lot
+   - Emphasize contributions
 9. Hype up the guild lottery & rewards for donations
 10. Find a way to make this document more private. Otherwise, more private info may be linked as static google docs.(Guild News)
 
-
-# Introduction
-
 TBA -- Migrate saints info center here? https://docs.google.com/document/d/11WGFPT37VFWoyjmTzDjWOHQcPMAsb82RIPQM3LJiZhQ/edit
 
+---
+
 ## To New Members
+
 A warm welcome to you, friend! We are very happy you have joined us and we look forward to enjoying the game and guilds with you.
 
 You may be curious about a lot of things and we have a step by step guide to help you transition into your new community.
@@ -35,43 +39,47 @@ We highly recommend that you learn about your new guild. We do things differentl
 
 Progression is a step by step process where you become more informed, more skilled and ultimately a thriving member of the community and earning gold.
 
-With you in mind, we have created a [[Step by Step Guide]] for you to follow to help your progression to be fun and challenging.
+With you in mind, we have created a [Step by Step Guide](/wiki/Step-by-Step-Guide.md) for you to follow to help your progression to be fun and challenging.
 
 ## [Guild News](wiki/Guild-News.md)
 
+---
+
 ## Links
+
 ### Information
+
 - [Guild Handbook](/wiki/Guild-Handbook.md)
 - [Ranks and Roles](/wiki/Ranks-and-Roles.md)
 - [Sales Handbook](/wiki/Sales-Handbook.md)
+
 ### Benefits
+
 - [[Guild Home]]
-- [[Crown Exchange]]
+- [Crown Exchange](/wiki/Crown-Exchange.md)
 - [[Rite of Passage]]
-- [Guild Lottery](/wiki/Guild-News#Monster-Lottery)
-- [[Awards and Prizes]]
+- [Guild Lottery](/wiki/Guild-News)
+- Awards and Prizes
 - [[Guild Credits]]
+
 ### Reference
-- [[Games, Gear, and Addon Assistance]]
+
+- [Games, Gear, and Addon Assistance](wiki/Game,-Gear,-and-Addon-Assistance.md)
 - [Sales Handbook](/wiki/Sales-Handbook.md)
 - [[Master Merchant Setup]]
 
 ## Discord
 Please join us if you can.  There are many resources in Discord that will come in handy. You do not need to have a headset or talk in Discord - it is mostly just typing if you want and reading, if you can.  
 
-Invite link here: https://discord.gg/8KybyjS
-
-## Reference
-[[Games, Gear, and Addon Assistance]]
-[Sales Handbook](/wiki/Sales-Handbook.md)
-[[Master Merchant Setup]]
+**[Invite link here](https://discord.gg/8KybyjS)**
 
 
 
 
 
-<!---
-## Table of Contents
+
+
+<!---## Table of Contents
 This might be optional as there is already a sidebar
 
 ### Introduction
@@ -90,4 +98,4 @@ This might be optional as there is already a sidebar
 
 ### Events
 
-### 
+### -->

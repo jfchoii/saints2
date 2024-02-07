@@ -1,4 +1,4 @@
-# Welcome to the saints wiki! 
+# Don't edit this! Welcome to the saints wiki! 
 
 Access this wiki at https://github.com/jfchoii/saints2/wiki
 
