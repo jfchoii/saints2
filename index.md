@@ -1,6 +1,6 @@
 <!-- index.md in the home directory functions as the home page -->
 
-# Welcome to the saints wiki!  1820
+# Welcome to the saints wiki!  1826
 
 Access this wiki at https://github.com/jfchoii/saints2/wiki
 
