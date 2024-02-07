@@ -1,123 +1,90 @@
----
-layout: default
----
+# Welcome to the saints wiki! 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Access this wiki at https://github.com/jfchoii/saints2/wiki
 
-[Link to another page](./another-page.html).
+This is currently being edited by @pangiokuhlii.
 
-There should be whitespace between paragraphs.
+This may be the home for static information related to the guild. Information that is constantly updated may be links to sheets/docs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Planned and suggested edits:
+1. Import contents of Google docs into wiki
+2. Find a nice theme
+3. (Need help with this) Host images offsite (Imgur or other) for linking in the pages 
+4. Restore formatting where relevant (Like in [[Crown Exchange]], for example)
+5. Restructure documentation to emphasize trading help and assistance (addons, pricing, farming, flipping, crafting, etc)
+6. Find hosting so that we don't have to use the current URL tied to my github
+7. Edit text so it is less verbose and easy for members to read and navigate
+8. Remove redundant information, consolidate information
+9. Hype up the guild lottery & rewards for donations
+10. Find a way to make this document more private. Otherwise, more private info may be linked as static google docs.(Guild News)
 
 
-### Definition lists can be used with HTML syntax.
+# Introduction
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+TBA -- Migrate saints info center here? https://docs.google.com/document/d/11WGFPT37VFWoyjmTzDjWOHQcPMAsb82RIPQM3LJiZhQ/edit
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## To New Members
+A warm welcome to you, friend! We are very happy you have joined us and we look forward to enjoying the game and guilds with you.
 
-```
-The final element.
-```
+You may be curious about a lot of things and we have a step by step guide to help you transition into your new community.
+
+We highly recommend that you learn about your new guild. We do things differently than most guilds and hope you will soon experience the benefits.
+
+Progression is a step by step process where you become more informed, more skilled and ultimately a thriving member of the community and earning gold.
+
+With you in mind, we have created a [[Step by Step Guide]] for you to follow to help your progression to be fun and challenging.
+
+## [[Guild News]]
+
+## Links
+### Information
+- [[Guild Handbook]]
+- [[Ranks and Roles]]
+- [[Sales Handbook]]
+### Benefits
+- [[Guild Home]]
+- [[Crown Exchange]]
+- [[Rite of Passage]]
+- [Guild Lottery](Guild-News#Monster-Lottery)
+- [[Awards and Prizes]]
+- [[Guild Credits]]
+### Reference
+- [[Games, Gear, and Addon Assistance]]
+- [[Sales Handbook]]
+- [[Master Merchant Setup]]
+
+## Discord
+Please join us if you can.  There are many resources in Discord that will come in handy. You do not need to have a headset or talk in Discord - it is mostly just typing if you want and reading, if you can.  
+
+Invite link here: https://discord.gg/8KybyjS
+
+## Reference
+[[Games, Gear, and Addon Assistance]]
+[[Sales Handbook]]
+[[Master Merchant Setup]]
+
+
+
+
+
+<!---
+## Table of Contents
+This might be optional as there is already a sidebar
+
+### Introduction
+1. [Welcome New Members](Welcome)
+2. [[Step by Step Guide]]
+
+### [Guild News](linktoguildnews)
+
+### Guilds
+1. [[Guild Basics]]
+2. [[Guild Rules]]
+
+### [[Sales Handbook]]
+
+### Benefits
+
+### Events
+
+### 
