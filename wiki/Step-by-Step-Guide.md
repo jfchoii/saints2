@@ -2,6 +2,8 @@
 # Step-by-Step Guide
 Revised 4/28/23
 
+(EN: Consider merging [Guild Basics](Guild-Basics.html))
+
 Your first accomplishment is that you made it this far in the documentation!  Keep up the good effort!  
 
 ## Step 1 - Learn where the knowledge and communication is located

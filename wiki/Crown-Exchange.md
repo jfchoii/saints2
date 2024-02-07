@@ -1,14 +1,11 @@
-# Crown Exchange
+# Crown Exchange Program for all Saint’s Guilds
 
 https://docs.google.com/document/d/12pdtGuxgblC3QLYpwusw2w2sUNJwt43xOQNeET8pi84/edit
 
 Revised 6/8/22
 
 
-_"Trust is like love. It can’t be seen, but its value is immeasurable." – **Frank Sonnenberg** _
-
-
-# Crown Exchange Program for all Saint’s Guilds
+> "Trust is like love. It can’t be seen, but its value is immeasurable." – **Frank Sonnenberg**
 
 
 ## How is Our Crown Exchange Done?
@@ -68,7 +65,7 @@ After your order is completed, please **DO NOT delete** your order request!  Hea
 
 ## SELLERS 
 
-**To sell crowns, please go to the #crown-exchange channel and scroll up to the top of the page. Please prioritize selling crowns to guild members who have posted earlier (and therefore have waited longer) and those who are buying items that are time limited, where the items are only in the Crown Store for a limited time and will be indicated by the **CLOCK** emote that Brokers will put on the order request.
+**To sell crowns, please go to the #crown-exchange channel and scroll up to the top of the page. Please prioritize selling crowns to guild members who have posted earlier (and therefore have waited longer) and those who are buying items that are time limited, where the items are only in the Crown Store for a limited time and will be indicated by the :clock: emote that Brokers will put on the order request.
 
 Please tag the order request you wish to fulfill by reacting with the Seller emote. Once you do, you may reach out to the Buyer via DM or by their @ name on the #appointments channel to arrange a time convenient to both of you. 
 
