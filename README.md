@@ -1,4 +1,4 @@
-<!-- Functions as HOME PAGE. Source: Home.md>
+<!-- Functions as HOME PAGE. Source: Home.md -->
 
 
 
