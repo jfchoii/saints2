@@ -1,18 +1,5 @@
 # Guild Handbook
 Source: https://docs.google.com/document/d/12yJRHTvmNDKH4DnfhhWArW2e0cmhRynXh7ikn7GNe4U/edit
-<!-----Conversion time: 0.464 seconds.
-
-Using this Markdown file:
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β35
-* Tue Feb 06 2024 19:23:22 GMT-0800 (PST)
-* Source doc: Copy of Guild Handbook----->
 
 Revised 5/7/22
 
@@ -26,11 +13,10 @@ Revised 5/7/22
 ## Quick links
 * [Discord](Link to discord)
 * [Guild Basics](Guild-Basics.md)
-* [Guild Rules](Guild-Rules.md)
+* [Guild Rules](Guild-Rules.md), [Absences](Absences.md)
 * [Ranks and Roles](Ranks-and-Roles.md)
 * [Sales Handbook](Sales-Handbook.md)
-* [Absences](Absences.md)
-* [[Game, Gear, and Addon Assistance]]
+* [Game, Gear, and Addon Assistance](Game,-Gear,-and-Addon-Assistance.md))
 
 ### Guild Philosophy 
 
@@ -57,7 +43,7 @@ More detail, mostly about guild chat and discord chat can be found in [Guild Rul
 
 The very first step you can take to help yourself and that will show other members that you want to be a part of the community is to join Discord.  You don’t need to use voice or have headsets to benefit from your new discord server.  It is our communication hub for sharing information.  The process of joining is very simple, 
 
-For our members that cannot join us on Discord, We have a new document to help enable you to stay more current with updates, rankings and Events: [[Guild News]].
+For our members that cannot join us on Discord, We have a new document to help enable you to stay more current with updates, rankings and Events: [Guild News](Guild-News.md).
 
 
 ## New to Guilds?
@@ -70,20 +56,21 @@ No problem, you should find a few answers to the basics here,.
 ## How we help each other
 ### What we offer
 * An outstanding guild hall with more amenities than you can imagine ([[Guild Home]]) 
-* A helpful management team (][Jobs Held]])  
+* A helpful [management team](Ranks-and-Roles.md)  
 * A helpful and extremely friendly community 
-* A Crown Exchange Program: See [[Crown Exchange]] 
+* A Crown Exchange Program: See [Crown Exchange](Crown-Exchange.md) 
 * Sales Help: See [Sales Handbook](Sales-Handbook.md) 
 * Crafting Services 
-* [[Game and Gear Assistance]] 
+* Game and Gear Assistance
 * Events every week 
+
 > See (Discord: category=Events/event-announcements) and (Discord: category=Events/events-impromptu) or [Guild News](Guild-News) 
 
-* Vampire or Werewolf Bites (Discord Category Guild Services/bite-me channel) 
+* Vampire or Werewolf Bites (Discord Category - Guild Services/bite-me channel) 
 * Free Awards and Prizes every week, approximate value of 1 million  
-* Lottery  (link) \
+* Lottery  (link) 
 * Documentation and Videos on the Game, Builds and Addons (link?) 
-* Guild News, Events and Reporting ([[Guild News]])
+* Guild News, Events and Reporting ([Guild News](Guild-News.md))
 
 
 We are always open to suggestions on better ways to improve and serve you. 
@@ -99,7 +86,7 @@ Uphold our guild philosophy and rules \
 Take advantage of our documentation and training \
 Participate in events \
 Lead events \
-Stay active in the game but if real life temporarily forces you away, know how to do it right ([[Absences]])  \
+Stay active in the game but if real life temporarily forces you away, know how to do it right ([Absences](Absences.md))  \
 Volunteer a little time to help others or the guild \
 Always keep spirits high! 
 
@@ -126,6 +113,7 @@ St Elsweyr and St Greymoor use your **weighted income average** (explained in [[
 2. Gold donations made directly into the guild bank are counted 100% toward your earned income.  If you need help on how to make a donation, check this document: (Guild Basics)[Guild-Basics]
 3. Item donations **of value** made directly into the guild bank are counted 100% toward your earned income, if a single item has a value of 1,000 gold or greater or if stackable items have a combined value of 1,000 gold or more.  <span style="text-decoration:underline;">Please note that we do not wish for you to put worthless items into the guild bank, as it does not give you credit for anything and creates more work for us to keep the bank space available for those that do wish to help.</span>
 4. The 24 Hour Rule for Selling: If a listing has not sold in 24 hours, and it is not unique, unusual, or a traditionally hard to sell item (furnishings, motifs, non-meta weapons and armor, etc), please consider relisting the item and lowering the price. Please limit your "hard to sell" items to 5 slots or less." 
+
 > While this is a good "rule of thumb" to follow at all times, the 24 hour rule will not be  declared unless we're in a pretty bad slump, or a pricing check shows that a load of our listed items are **WAY** out of line (I'm talking 50 to several thousand percent over TTC's highest suggested price - and, yes, there have been some items listed that had prices that would open your eyes. I do try to explain why when I declare that rule active. 
 
 If you ever have any questions, please don't hesitate to ask - either on Discord in Sales or via PM to @SidewaysJoe.
