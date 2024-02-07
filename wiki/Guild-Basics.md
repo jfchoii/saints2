@@ -1,4 +1,4 @@
-# Guild Basics
+# Guild Basics (In-Game)
 
 Revised 8/22/21
 https://docs.google.com/document/d/1Ly6wXKiiUq8jVv2ID26xzYmwmVPCzhIiVFdzvaT89xw/edit
