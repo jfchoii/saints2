@@ -1,7 +1,7 @@
 docs_list_title: Guild Resources
 docs:
   - title: "Guild Lottery"
-    url: ""
+    url: /saints2/wiki/Guild-News.html
 
   - title: "Contribution Calculator"
     url: https://docs.google.com/spreadsheets/d/18EE3hyYQJPFLcVFTjxABhpEym1-dqKtglReXqezndN0/edit?usp=sharing   
@@ -16,10 +16,8 @@ docs:
     url: /saints2/wiki/Guild-Home.html
 
   - title: "..."
-    url: ""
+    url: "/saints2/wiki"
 
-  - title: "..."
-    url: ""
 
 # Note that url paths are defined relative to this yml file path.
 # Edit sidebar in default.html
