@@ -1,6 +1,4 @@
 docs_list_title: Guild Resources
-# Note that url paths are defined relative to this yml file path.
-# Edit sidebar in default.html
 docs:
   - title: "Guild Lottery"
     url: ""
@@ -9,13 +7,13 @@ docs:
     url: https://docs.google.com/spreadsheets/d/18EE3hyYQJPFLcVFTjxABhpEym1-dqKtglReXqezndN0/edit?usp=sharing   
 
   - title: "Crown Exchange"
-    url: /saints2/wiki/Crown-Exchange.md
+    url: /saints2/wiki/Crown-Exchange.html
 
   - title: "Game, Gear, and Addon Assistance"
-    url: /saints2/wiki/Game,-Gear,-and-Addon-Assistance.md
+    url: /saints2/wiki/Game,-Gear,-and-Addon-Assistance.html
 
   - title: "Guild Home"
-    url: /saints2/wiki/Guild-Rules.md 
+    url: /saints2/wiki/Guild-Rules.html
 
   - title: "..."
     url: ""
@@ -23,4 +21,5 @@ docs:
   - title: "..."
     url: ""
 
-
+# Note that url paths are defined relative to this yml file path.
+# Edit sidebar in default.html

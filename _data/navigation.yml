@@ -1,27 +1,25 @@
 docs_list_title: Navigation
-
-# Note that url paths are defined relative to this yml file path.
 docs:
   - title: "Home"
     url: /saints2/index.html
 
   - title: "Guild News"
-    url: /saints2/wiki/Guild-News.md   
+    url: /saints2/wiki/Guild-News.html
 
   - title: "Guild Handbook"
-    url: /saints2/wiki/Guild-Handbook.md
+    url: /saints2/wiki/Guild-Handbook.html
 
   - title: "Sales Handbook"
-    url: /saints2/wiki/Sales-Handbook.md
+    url: /saints2/wiki/Sales-Handbook.html
 
   - title: "Guild Rules"
-    url: /saints2/wiki/Guild-Rules.md 
+    url: /saints2/wiki/Guild-Rules.html 
 
   - title: "Absences"
-    url: /saints2/wiki/Absences.md 
+    url: /saints2/wiki/Absences.html 
 
   - title: "Ranks and Roles"
-    url: /saints2/wiki/Ranks-and-Roles.md
+    url: /saints2/wiki/Ranks-and-Roles.html
 
   - title: "Add more later"
     url: https://jekyllrb.com/tutorials/navigation/#scenario-2-sorted-list
