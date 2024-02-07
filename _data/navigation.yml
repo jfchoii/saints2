@@ -1,25 +1,25 @@
 docs_list_title: Navigation
 docs:
   - title: "Home"
-    url: /index.html
+    url: index.html
 
   - title: "Guild News"
-    url: /wiki/Guild-News.md   
+    url: wiki/Guild-News.md   
 
   - title: "Guild Handbook"
-    url: /wiki/Guild-Handbook.md
+    url: wiki/Guild-Handbook.md
 
   - title: "Sales Handbook"
-    url: /wiki/Sales-Handbook.md
+    url: wiki/Sales-Handbook.md
 
   - title: "Guild Rules"
-    url: /wiki/Guild-Rules.md 
+    url: wiki/Guild-Rules.md 
 
   - title: "Absences"
-    url: /wiki/Absences.md 
+    url: wiki/Absences.md 
 
   - title: "Ranks and Roles"
-    url: /index.html#Welcome
+    url: wiki/Ranks-and-Roles.md
 
   - title: "Add more later"
     url: https://jekyllrb.com/tutorials/navigation/#scenario-2-sorted-list
