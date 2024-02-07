@@ -4,22 +4,22 @@ docs:
     url: index.html
 
   - title: "Guild News"
-    url: wiki/Guild-News.md   
+    url: Guild-News.md   
 
   - title: "Guild Handbook"
-    url: wiki/Guild-Handbook.md
+    url: Guild-Handbook.md
 
   - title: "Sales Handbook"
-    url: wiki/Sales-Handbook.md
+    url: Sales-Handbook.md
 
   - title: "Guild Rules"
-    url: wiki/Guild-Rules.md 
+    url: Guild-Rules.md 
 
   - title: "Absences"
-    url: wiki/Absences.md 
+    url: Absences.md 
 
   - title: "Ranks and Roles"
-    url: wiki/Ranks-and-Roles.md
+    url: Ranks-and-Roles.md
 
   - title: "Add more later"
     url: https://jekyllrb.com/tutorials/navigation/#scenario-2-sorted-list
