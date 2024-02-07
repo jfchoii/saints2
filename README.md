@@ -1,26 +1,30 @@
-# Welcome to the saints wiki! 
-
-Access the main site at https://jfchoii.github.io/saints2
-
-The wiki (to be deleted eventually) is at https://github.com/jfchoii/saints2/wiki
+# Welcome to the Saints wiki! 
 
 This is currently being edited by @pangiokuhlii.
+
+## Website at https://jfchoii.github.io/saints2
+
+For editors: Can contribute to Wiki (will eventually be made private to collaborators) at https://github.com/jfchoii/saints2/wiki
+
 
 This may be the home for static information related to the guild. Information that is constantly updated may be links to sheets/docs.
 
 Planned and suggested edits:
 1. Import contents of Google docs into wiki
-2. Find a nice theme
+1. Remove redundant information, consolidate information
 3. (Need help with this) Host images offsite (Imgur or other) for linking in the pages 
 4. Restore formatting where relevant (Like in [[Crown Exchange]], for example)
 5. Restructure documentation to emphasize trading help and assistance (addons, pricing, farming, flipping, crafting, etc)
 6. Find hosting so that we don't have to use the current URL tied to my github
 7. Edit text so it is less verbose and easy for members to read and navigate
-8. Remove redundant information, consolidate information
 9. Hype up the guild lottery & rewards for donations
 10. Find a way to make this document more private. Otherwise, more private info may be linked as static google docs.(Guild News)
+11. Make editors' guide for future editors (As of now, editors can edit the markdown pages in the /wiki/ folder.)
 
+Accomplished tasks: 
+- Find a nice theme
 
+<!---
 # Introduction
 
 TBA -- Migrate saints info center here? https://docs.google.com/document/d/11WGFPT37VFWoyjmTzDjWOHQcPMAsb82RIPQM3LJiZhQ/edit
@@ -66,7 +70,7 @@ Invite link here: https://discord.gg/8KybyjS
 [[Master Merchant Setup]]
 
 
-
+--->
 
 
 <!---
