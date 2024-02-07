@@ -34,7 +34,7 @@ Progression is a step by step process where you become more informed, more skill
 
 With you in mind, we have created a [[Step by Step Guide]] for you to follow to help your progression to be fun and challenging.
 
-## [[Guild News]]
+## [Guild News](Guild-News)
 
 ## Links
 ### Information
