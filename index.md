@@ -40,19 +40,19 @@ With you in mind, we have created a [[Step by Step Guide]] for you to follow to 
 
 ## Links
 ### Information
-- [Guild Handbook](wiki/Guild-Handbook.md)
-- [Ranks and Roles](wiki/Ranks-and-Roles.md)
-- [Sales Handbook](wiki/Sales-Handbook.md)
+- [Guild Handbook](/wiki/Guild-Handbook.md)
+- [Ranks and Roles](/wiki/Ranks-and-Roles.md)
+- [Sales Handbook](/wiki/Sales-Handbook.md)
 ### Benefits
 - [[Guild Home]]
 - [[Crown Exchange]]
 - [[Rite of Passage]]
-- [Guild Lottery](wiki/Guild-News#Monster-Lottery)
+- [Guild Lottery](/wiki/Guild-News#Monster-Lottery)
 - [[Awards and Prizes]]
 - [[Guild Credits]]
 ### Reference
 - [[Games, Gear, and Addon Assistance]]
-- [Sales Handbook](wiki/Sales-Handbook.md)
+- [Sales Handbook](/wiki/Sales-Handbook.md)
 - [[Master Merchant Setup]]
 
 ## Discord
@@ -62,7 +62,7 @@ Invite link here: https://discord.gg/8KybyjS
 
 ## Reference
 [[Games, Gear, and Addon Assistance]]
-[Sales Handbook](Sales-Handbook.md)
+[Sales Handbook](/wiki/Sales-Handbook.md)
 [[Master Merchant Setup]]
 
 
