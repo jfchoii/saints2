@@ -1,4 +1,5 @@
 docs_list_title: Guild Resources
+# Note that url paths are defined relative to this yml file path.
 docs:
   - title: "Guild Lottery"
     url: ""
@@ -7,13 +8,13 @@ docs:
     url: https://docs.google.com/spreadsheets/d/18EE3hyYQJPFLcVFTjxABhpEym1-dqKtglReXqezndN0/edit?usp=sharing   
 
   - title: "Crown Exchange"
-    url: /wiki/Crown-Exchange.md
+    url: Crown-Exchange.md
 
   - title: "Game, Gear, and Addon Assistance"
-    url: /wiki/Game,-Gear,-and-Addon-Assistance.md
+    url: Game,-Gear,-and-Addon-Assistance.md
 
   - title: "Guild Home"
-    url: /wiki/Guild-Rules.md 
+    url: Guild-Rules.md 
 
   - title: "..."
     url: ""
