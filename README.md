@@ -1,6 +1,8 @@
 # Welcome to the saints wiki! 
 
-Access this wiki at https://github.com/jfchoii/saints2/wiki
+Access the main site at https://jfchoii.github.io/saints2
+
+The wiki (to be deleted eventually) is at https://github.com/jfchoii/saints2/wiki
 
 This is currently being edited by @pangiokuhlii.
 
