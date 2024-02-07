@@ -5,8 +5,8 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 theme: jekyll-theme-minimal
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Saints Wiki]
+description: [Insert Description Here]
 plugins:
 - jekyll-remote-theme #
 
