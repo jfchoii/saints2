@@ -2,7 +2,8 @@
 
 # Welcome to the saints wiki! 
 
-Original Saints info center, being migrated here: https://docs.google.com/document/d/11WGFPT37VFWoyjmTzDjWOHQcPMAsb82RIPQM3LJiZhQ/edit
+
+This is currently being edited by @pangiokuhlii based on [the original Saints info center](https://docs.google.com/document/d/11WGFPT37VFWoyjmTzDjWOHQcPMAsb82RIPQM3LJiZhQ/edit), being migrated here. 
 
 ---
 
@@ -53,14 +54,13 @@ With you in mind, we have created a [Step by Step Guide](/wiki/Step-by-Step-Guid
 ## Discord
 Please join us if you can.  There are many resources in Discord that will come in handy. You do not need to have a headset or talk in Discord - it is mostly just typing if you want and reading, if you can.  
 
-**[Invite link here](https://discord.gg/8KybyjS)**
+### [Join our Discord here](https://discord.gg/8KybyjS)
 
 
 ---
 
 #### Editor's notes
 
-This is currently being edited by @pangiokuhlii.
 
 Access site at https://jfchoii.github.io/saints2 ; Access this wiki at https://github.com/jfchoii/saints2/wiki
 
