@@ -2,9 +2,9 @@
 main:
   - title: "Home"
     url: /index.html
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Downloads"
-    url: /year-archive/
-  - title: "Quick-Start Guide"
+  - title: "Guild Handbook"
+    url: /wiki/Guild-Handbook.md
+  - title: "Sales Handbook"
+    url: /wiki/Sales-Handbook.md
+  - title: "Add more later"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
