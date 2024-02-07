@@ -10,4 +10,4 @@ description: [A short description of your site's purpose]
 plugins:
 - jekyll-remote-theme #
 
-source: wiki/
+#source: wiki/
